@@ -46,6 +46,7 @@ Please also note the following:
 ## Contact
 
   If you have have trouble understanding the tasks or general questions, don't hesitate to contact me directly:
-  Mark Labenski<mark.labenski@kmh-gmbh.com>
+  
+  Mark Labenski <mark.labenski@kmh-gmbh.com>
 
 glhf
