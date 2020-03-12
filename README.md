@@ -22,7 +22,7 @@ Your task is to develop a little REST API, which returns products, prices and us
 
 You can find the known customers, products from "Service A" and product availabilites in the `./programming` directory, too.
 
-![flow diagram of product service][flow diagram]
+![flow diagram of product service][flow-diagram]
 
 #### 2. Conceptual
 
