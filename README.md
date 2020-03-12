@@ -27,12 +27,14 @@ You can find the known customers, products from "Service A" and product availabi
 Your task is to create a little diagram (nothing fancy) and a little description that shows the architecture you'd choose for the a part of the application that is described as followed:
 After returning the products from your REST API to an processing application, the application will return a JSON with a list of products the customer wants to order. The system your working in has all informations about an order entry API from a big warehouse where you should forward the order to.
 There are some limitations and contraints:
+
   - The order entry API (OEA) is only available between in business hours
   - The OEA sometimes doesn't respond and don't seem to receive the order
   - You also have to send batches of orders from another system, which you receive as an .csv file
   - Your application is hosted in a public cloud environment
 
-Also note the following:
+Please also note the following:
+
   - Don't write about details about the actual code or implementation of the service
   - Use only generic terms like Database/Datastore, Load Balancer, File Storage etc. -> Don't refer to a specific cloud provider oder service
   - We don't need a complex UML diagram
