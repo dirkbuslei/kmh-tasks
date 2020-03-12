@@ -27,6 +27,7 @@ You can find the known customers, products from "Service A" and product availabi
 #### 2. Conceptual
 
 Your task is to create a little diagram (nothing fancy) and a little description that shows the architecture you'd choose for the a part of the application that is described as followed:
+
 After returning the products from your REST API to an processing application, the application will return a JSON with a list of products the customer wants to order. The system your working in has all informations about an order entry API from a big warehouse where you should forward the order to.
 There are some limitations and contraints:
 
