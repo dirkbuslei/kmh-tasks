@@ -22,7 +22,7 @@ Your task is to develop a little REST API, which returns products, prices and us
 
 You can find the known customers, products from "Service A" and product availabilites in the `./programming` directory, too.
 
-![flow diagram of product service][flow-diagram]
+![flow diagram of product service](/programming/product-service.png)
 
 #### 2. Conceptual
 
@@ -41,6 +41,3 @@ Please also note the following:
   - Use only generic terms like Database/Datastore, Load Balancer, File Storage etc. -> Don't refer to a specific cloud provider oder service
   - We don't need a complex UML diagram
   - Describe your architecture decisions in key points (no long text)
-
-
-[flow-diagram]: https://bitbucket.org/kmhgmbh/backend-trial-task/src/master/programming/product-service.png ""
