@@ -41,3 +41,10 @@ Please also note the following:
   - Use only generic terms like Database/Datastore, Load Balancer, File Storage etc. -> Don't refer to a specific cloud provider oder service
   - We don't need a complex UML diagram
   - Describe your architecture decisions in key points (no long text)
+
+## Contact
+
+  If you have have trouble understanding the tasks or general questions, don't hesitate to contact me directly:
+  Mark Labenski<mark.labenski@kmh-gmbh.com>
+
+glhf
