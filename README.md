@@ -5,7 +5,7 @@ Hello dear Candidate,
 Thank you for considering us as a future employer and the effort for taking this trial task in order to show us how you solve problems.
 
 ## The task
-Please provide the solution of your trial task in a seperate, publically available git repository.
+Please provide the solution of your trial task in a seperate, publically available git repository and send me the link. (For my email see `Contact` at the buttonm of this README)
 
 The task has 2 parts:
 
@@ -46,7 +46,7 @@ Please also note the following:
 ## Contact
 
   If you have have trouble understanding the tasks or general questions, don't hesitate to contact me directly:
-  
+
   Mark Labenski <mark.labenski@kmh-gmbh.com>
 
 glhf
