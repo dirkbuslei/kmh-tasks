@@ -22,6 +22,8 @@ Your task is to develop a little REST API, which returns products, prices and us
 
 You can find the known customers, products from "Service A" and product availabilites in the `./programming` directory, too.
 
+![flow diagram of product service](https://bitbucket.org/kmhgmbh/backend-trial-task/src/master/programming/product-service.png)
+
 #### 2. Conceptual
 
 Your task is to create a little diagram (nothing fancy) and a little description that shows the architecture you'd choose for the a part of the application that is described as followed:
