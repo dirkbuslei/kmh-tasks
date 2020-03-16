@@ -4,6 +4,7 @@
       "productCode": "VAC-0005",
       "productCategoryCode": "",
       "productName": "Vacuum cleaner V300, Siemens",
+      "generallyAvailable": true,
       "prices": [
         {
           "isExistingCustomer": false,
@@ -23,6 +24,7 @@
       "productCode": "VAC-0085",
       "productCategoryCode": "VAC",
       "productName": "Vacuum cleaner Braun AW800",
+      "generallyAvailable": false,
       "prices": {
         "isExistingCustomer": false,
         "netPrice": "192,43 €",
@@ -34,6 +36,7 @@
       "productCode": "HAD-0064",
       "productCategoryCode": "HAD",
       "productName": "Hair dryer Grundig Z22 Sharp XION",
+      "generallyAvailable": true,
       "prices": [
         {
           "isExistingCustomer": false,
@@ -53,6 +56,7 @@
       "productCode": "HAD-0963",
       "productCategoryCode": "HAD",
       "productName": "Hair dryer Braun ComfortAirble",
+      "generallyAvailable": false,
       "prices": [
       {
         "isExistingCustomer": false,
