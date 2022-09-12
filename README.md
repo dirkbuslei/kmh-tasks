@@ -14,7 +14,7 @@ The task has 2 parts:
 
 Your task is to develop a small REST API, which returns products, prices and user information for a certain or unknown user.
 
-- The Service MUST be written in JavaScript with NodeJS, you CAN use expressJS or other frameworks for that.
+- The Service MUST be written in JavaScript or TypeScript with NodeJS, you CAN use expressJS or other frameworks for that.
 - The API MUST be able to handle requests like the ones given in `./programming/example-request-bodies.json`.
 - It MUST return data as described in the flow diagram `./programming/product-service.png`.
 - You DO NOT need to implement a data store or anything like that. Just use the JSON files as provided and mock the parts you would access from other sources.
