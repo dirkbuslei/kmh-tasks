@@ -1,4 +1,4 @@
-![KMH-Task2-Conceptual](/KMH-Task2-Conceptual.png)
+![KMH-Task2-Conceptual](./KMH-Task2-Conceptual.png)
 
 * LoadBalancer, same for both paths
 * CheckAuth, same for both paths
